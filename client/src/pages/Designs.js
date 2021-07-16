@@ -7,84 +7,14 @@ function Designer() {
   const GraphicDesignImages = [
     {
       key: 1,
-      imgSrc:"/images/designs-img/Yeatman_GD_2.png",
+      imgSrc:"/images/designs/final.png",
       alt:"pic",
     },
     {
       key: 2,
-      imgSrc:"/images/designs-img/MiPonderosaV2_Final.png",
+      imgSrc:"/images/designs/final.png",
       alt:"pic",
     },
-    {
-      key: 3,
-      imgSrc:"/images/designs-img/Yeatman_GD_3.png",
-      alt:"pic"
-    },
-    {
-      key: 4,
-      imgSrc:"/images/designs-img/Yeatman_GD_4.png",
-      alt:"pic"
-    },
-    {
-      key: 5,
-      imgSrc:"/images/designs-img/Yeatman_GD_11.png",
-      alt:"pic"
-    },
-    {
-      key: 6,
-      imgSrc:"/images/designs-img/Yeatman_GD_5.png",
-      alt:"pic"
-    },
-    {
-      key: 7,
-      imgSrc:"/images/designs-img/Yeatman_GD_7.png",
-      alt:"pic"
-    },
-    {
-      key: 8,
-      imgSrc:"/images/designs-img/Yeatman_GD_10.png",
-      alt:"pic"
-    },
-    {
-      key: 9,
-      imgSrc:"/images/designs-img/Yeatman_GD_9.png",
-      alt:"pic"
-    },
-    {
-      key: 10,
-      imgSrc:"/images/designs-img/Yeatman_GD_6.png",
-      alt:"pic"
-    },
-     {
-      key: 11,
-      imgSrc:"/images/designs-img/Yeatman_GD_20.png",
-      alt:"pic"
-    },
-     {
-      key: 12,
-      imgSrc:"/images/designs-img/phoenix-printing.png",
-      alt:"pic"
-    },
-     {
-      key: 13,
-      imgSrc:"/images/designs-img/Yeatman_GD_17.png",
-      alt:"pic"
-    },
-     {
-      key: 14,
-      imgSrc:"/images/designs-img/Yeatman_GD_21.png",
-      alt:"pic"
-    },
-     {
-      key: 15,
-      imgSrc:"/images/designs-img/Yeatman_GD_19.png",
-      alt:"pic"
-    },
-    {
-      key: 16,
-      imgSrc:"/images/designs-img/Yeatman_GD_16.png",
-      alt:"pic"
-    }
   ]
   return (
     <div>

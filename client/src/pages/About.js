@@ -7,7 +7,7 @@ function About() {
 
         <div className="about-text">
             <p>
-                I thrive best in an environment that sparks both a challenge and creativity.
+                challenge and creativity.
         
             </p>
         </div>

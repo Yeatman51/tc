@@ -8,13 +8,11 @@ function Home() {
     <div>
         
         
-        <dir className="about-text-home">
+        <div className="about-text-home">
             <p>
-                Experienced Business Owner with a demonstrated history of working in the computer software and graphics industry. 
-                Skilled in Business Planning, Operations Management, Web Design, HTML, CSS, and JavaScript. Strong operations professional with 
-                a Certificate focused in Full Stack Web Development from Michigan State University. 
+                Custom graphic design web development services 
             </p>
-        </dir>
+        </div>
         
         <div className="dividers-line"></div>
 
@@ -22,7 +20,7 @@ function Home() {
         
 
         <div className="email">
-            <h3>jonlyeatman@gmail.com</h3>
+            <h3>TechnaCore@gmail.com</h3>
         </div>
 
     </div>
