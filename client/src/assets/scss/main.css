@@ -1,0 +1,48 @@
+.container,
+.container-sm,
+.container-xs {
+  width: 100%;
+  margin: 0 auto;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+.container {
+  max-width: 1128px;
+}
+
+.container-sm {
+  max-width: 944px;
+}
+
+.container-xs {
+  max-width: 668px;
+}
+
+[class*=container] [class*=container] {
+  padding-left: 0;
+  padding-right: 0;
+}
+[class*=container] .container-sm {
+  max-width: 896px;
+}
+[class*=container] .container-xs {
+  max-width: 620px;
+}
+
+body {
+  font-family: "Source Sans Pro", Helvetica, Verdana, sans-serif;
+}
+
+.footer {
+  background-color: gray;
+}
+
+body {
+  margin: 0;
+}
+
+.dividers-line {
+  width: 100%;
+  color: gray;
+}/*# sourceMappingURL=main.css.map */
